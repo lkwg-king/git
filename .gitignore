@@ -1,0 +1,22 @@
+# Local agent/tooling state
+.agents/
+.codex/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Common dependency/build output
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+__pycache__/
+*.py[cod]
